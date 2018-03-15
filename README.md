@@ -1,2 +1,0 @@
-# collaudo
-ciao
